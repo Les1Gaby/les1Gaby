@@ -1,5 +1,7 @@
 
 
+-As an Industrial chemical engineer with experience in process optimization, project management, environmental compliance, and safety. Focuses on applying chemical engineering principles to design, develop, and improve industrial systems and processes.
+
 -I'm an enthusiastic tech enthusiast constantly seeking knowledge and skills in digital trends, committed to professional development and immersing myself in emerging technologies to expand my horizons and contribute to technological innovation.👾
 
 ## Abilities🌟:
@@ -13,3 +15,4 @@
 -Participation in online communities, study groups, and technology events helps share knowledge and stay updated.
 
 ## some tecnologies i use:
+### How to reach me:
