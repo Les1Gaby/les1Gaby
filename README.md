@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Les1Gaby/les1Gaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-I'm an enthusiastic tech enthusiast constantly seeking knowledge and skills in digital trends, committed to professional development and immersing myself in emerging technologies to expand my horizons and contribute to technological innovation.👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Abilities🌟:
+-I am learning web programming basics like HTML, CSS, JavaScript and using Bootstrap frameworks to create dynamic and responsive web sites.
+
+## Personal Projects🌐:
+-The individual showcases their skills in forming through personal projects, focusing on the development of a personal website using HTML, CSS, and JavaScript.
+
+## Education🧮:
+-Online courses and tutorials on platforms like Udemy, Coursera, and Codecademy cover programming, artificial intelligence, blockchain, and related topics. 
+-Participation in online communities, study groups, and technology events helps share knowledge and stay updated.
+
+## some tecnologies i use:
