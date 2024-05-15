@@ -1,4 +1,5 @@
 
+![Demo](Banner.png)
 
 -As an Industrial chemical engineer with experience in process optimization, project management, environmental compliance, and safety. Focuses on applying chemical engineering principles to design, develop, and improve industrial systems and processes.
 
