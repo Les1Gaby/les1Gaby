@@ -44,7 +44,7 @@ Spanish (native) and English (intermediate).
 
 ## Find me around the web🌎:
 <img src="https://img.shields.io/badge/les_q6%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/Lesg%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img  src="https://img.shields.io/badge/Lesly Quiroz%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>  <img src="https://img.shields.io/badge/LeslyQuiroz%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/Lesly Q. Blu%20-%230045B7.svg?&style=for-the-badge&logo=facebook&logoColor=white"/> <img src="https://img.shields.io/badge/leslyquiroz1@gmail.com%20-%23E30C7.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-
+### Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/lesly-gabriela-quiroz-bueno-b0b346183)
 ## Statistics🔎:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=les1gaby&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=les1gaby)
